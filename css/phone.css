@@ -1,0 +1,189 @@
+html{
+    margin-left: 0px;
+    padding-left: 0px;
+}
+body{
+    width:100%;
+    margin:0px 0px;
+    padding:0px 0px;
+    background:url(../image/html_bg.png) repeat;
+}
+img { max-width: 100%;}
+
+.head-nav{
+    width:100%;
+    background:url(../image/header_bg.png) repeat;
+    top:0px;
+    z-index:1;
+    padding-left:0px;
+    margin-left:0px;
+    height: 120px;
+}
+
+
+.logo{
+    display: none;
+}
+ul{
+    float: left;
+    margin-top: 15px;
+    font-family: "楷体";
+}
+ul li{
+    font-size:1.3em;
+}
+.dropdown-menu {
+     font-size:0.8em;
+}
+.dropdown {
+    margin-top:6px;
+}
+.btn{
+    font-family:"微软雅黑";
+}
+.form-search{
+    width:100%;
+    height:80px;
+    float: left;
+    background: white;
+    margin: 5px auto;
+    padding-left:80px;
+}
+.form-search .input-append{
+    margin-top:20px;
+}
+
+.content{
+    float: left;
+    padding:5px;
+    margin: 0px;
+}
+.play{
+    width: 100%;
+    height:203px;
+    float: left;
+}
+.play div img{
+    width: 100%;
+    height: 203px;
+}
+.sidebar{
+
+    background-color: gray;
+    float: left;
+    width: 100%;
+    height:10em;
+}
+.photo{
+        width: 100%;
+        float: left;
+}
+.word{
+    width: 100%;
+    padding: 0 0 10px 0;
+    margin-bottom: 9px;
+    display: block;
+}
+
+.photo-dis{
+    height:300px;
+    width: 49%;
+    margin:3px 0.5%;
+    background-color: white;
+    float: left;
+}
+.foot{
+    width:100%;
+    height:80px;
+    margin: 0 auto;
+    vertical-align: bottom;
+    display: block; 
+    float: left;
+    background-color:gray;
+}
+.login{
+    float: right;
+    position: absolute;
+    top:10px;
+    right: 10px;
+    font-family:"楷体";
+    font-size:1.2em;
+} 
+.photo img{
+    width:100%;
+    height: 175px;
+}
+.content div h3{
+    font-size: 18px;
+}
+.fense{
+    color:#ff6699;
+    font-size: 15px;
+}
+.photo-word{
+    color:#999;
+    font-size: 15px;
+    font-family: "微软雅黑";
+}
+.photo-word-dis{
+    margin:10px 0px 0px 0px;
+}
+
+
+.pc{
+    display: none;
+}
+
+.sign{
+    margin:40px;
+}
+
+
+
+.detail-left {
+    text-align:center;
+    width:100%;
+    height:400px;
+    background:gray;
+    float:left;
+}
+.detail-left h3{
+    margin:20px;
+}
+.author-info {
+    margin:10px 20px 0px 0px;
+    
+}
+.author-info p{
+    font-family:"楷体";
+    color:#000;
+    margin:5px 20px 5px 5px;
+    padding-left:20px;
+}
+.author-info img {
+    width:80px; 
+    height:80px; 
+    margin:0px 50px 10px;
+}
+.detail-right {
+    float:right;
+    width:100%;
+    height:800px;
+    background:white;
+}
+
+.ps-header img{
+    float: left;
+    width:150px;
+    height: 150px;
+    margin:20px;
+}
+.ps-header em{
+    margin-top:40px;
+    font-size: 25px;
+    font-family: "楷体"；
+}
+.ps-header p{
+    color:gray;
+    font-family: "楷体"；
+}
