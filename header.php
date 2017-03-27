@@ -28,7 +28,7 @@
 	<body>
 		<header>
 		<!-- 手机端 -->
-      <div class="navbar phone">
+     <!--  <div class="navbar phone">
         <div class="navbar-inner" >
           <ul class="nav-pills" style="list-style:none;margin:1em 0 ;padding:0px;">
               <li ><a href="index.html">首页</a></li>
@@ -46,17 +46,17 @@
 	                <button type="submit" class="btn">搜索</button>
 	            </div>
 	        </form>
-      </div>
+      </div> -->
 			<!-- 电脑端 -->
-			<div class="head-nav pc">
-				<div class="logo">
+			<div class="head-nav">
+				<div class="logo pc">
 					己为之
 				</div>
 				<ul class="nav  nav-pills">
-					<li><a href="index.html">首页</a></li>
-					<li><a href="ranklist.html">作家榜</a></li>
-					<li><a href="special.html">专题</a></li>
-					<li><a href="about.html">关于</a></li>
+					<li><a href="index.php">首页</a></li>
+					<li><a href="ranklist.php">作家榜</a></li>
+					<li><a href="special.php">专题</a></li>
+					<li><a href="about.php">关于</a></li>
 				</ul>
 				<form class="form-search">
 						<div class="input-append">
@@ -65,7 +65,7 @@
 						</div>
 				</form>
 				<div class="login">
-						<a href="login.html">登录</a> | <a href="sign.html">注册</a>
+						<a href="login.php">登录</a> | <a href="sign.php">注册</a>
 				</div>
 			</div>
 		<header>

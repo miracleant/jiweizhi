@@ -46,11 +46,10 @@ ul li{
     height:80px;
     float: left;
     background: white;
-    margin: 5px auto;
-    padding-left:80px;
+    margin:5px auto;
 }
-.form-search .input-append{
-    margin-top:20px;
+.input-append{
+    margin:25px 80px;
 }
 
 .content{

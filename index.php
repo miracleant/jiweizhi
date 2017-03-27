@@ -1,6 +1,6 @@
 <?php include('header.php') ?>
-<!-- 电脑端的轮播器 -->
 	<div class="content">
+		<!-- 电脑端的轮播器 -->
 		<div id="box" class="play carousel slide">
 			<ol class="carousel-indicators">
 				<li data-target="#box" data-slide-to="0" class="active"></li>	
@@ -42,12 +42,12 @@
 				<div class="pc-photo" style="width:310px;height:200px;float:right;background:green;">
 				</div>
 			</div>
-		</div>
-		<!-- 分界线 -->
-		<div class="word">
-			<a href="more.html" target="_blank" style="float:right;padding:3px; margin-bottom:5px;">更多</a>
-			<h2 style="font-size:16px; display；inline; margin-bottom:0px;">商品</h2>
-			<hr style="margin:0px; padding:0px;"/>	
+			<!-- 分界线 -->
+			<div class="word">
+				<a href="more.html" target="_blank" style="float:right;padding:3px; margin-bottom:5px;">更多</a>
+				<h2 style="font-size:16px; display；inline; margin-bottom:0px;">商品</h2>
+				<hr style="margin:0px; padding:0px;"/>	
+			</div>
 		</div>
 		<!-- 商品图片展示 -->
 		<div class="phone">	
