@@ -27,26 +27,6 @@
 	</head>
 	<body>
 		<header>
-		<!-- 手机端 -->
-     <!--  <div class="navbar phone">
-        <div class="navbar-inner" >
-          <ul class="nav-pills" style="list-style:none;margin:1em 0 ;padding:0px;">
-              <li ><a href="index.html">首页</a></li>
-              <li ><a href="ranklist.html">排行榜</a></li>
-              <li ><a href="special.html">专题</a></li>
-              <li ><a href="about.html">关于</a></li>
-          </ul>
-          <div class="login">
-              <button class="btn" style="margin:0px auto 10px;padding-top:0px;"><a href="login.html">登录</a></button>
-          </div>
-        </div>
-	        <form class="form-search">
-	            <div class="input-append" style="margin: 20px 80px;">
-	                <input type="text" class="search-query" style="width:100px;">
-	                <button type="submit" class="btn">搜索</button>
-	            </div>
-	        </form>
-      </div> -->
 			<!-- 电脑端 -->
 			<div class="head-nav">
 				<div class="logo pc">

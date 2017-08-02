@@ -9,7 +9,7 @@ body>header{
 .head-nav{
     width:940px;
     background: white;
-    position: fixed;
+    position: absolute;
     top: 0;
     z-index:1;
     padding:0px auto;
@@ -29,17 +29,13 @@ ul{
     font-family: "微软雅黑";
 }
 ul li{
-
     font-size:18px;
 }
-
-
 .form-search{
     margin-top: 15px;
     margin-left:50px; 
     float: left;
 }
-
 .content{
     padding-top: 0px;
 }
